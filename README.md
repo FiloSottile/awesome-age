@@ -25,7 +25,7 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 ## Implementations
 
-* ⭐️ [age](https://filippo.io/age) — CLI and Go reference implementation, with native keys, SSH keys, passphrase, and plugin support.
+* ⭐️ [age](https://filippo.io/age) — CLI and Go reference implementation.
 
 * ⭐️ [rage](https://str4d.xyz/rage) — Rust implementation, fully interoperable and feature complete.
 
