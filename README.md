@@ -6,7 +6,7 @@
     </picture>
 </p>
 
-# Awesome age
+# Awesome age [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A collection of projects and resources in the age file encryption ecosystem.
 
