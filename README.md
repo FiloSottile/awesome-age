@@ -10,6 +10,15 @@
 
 A collection of projects and resources in the age file encryption ecosystem.
 
+* [Implementations](#implementations)
+* [Plugins](#plugins)
+* [GUIs](#guis)
+* [Tools](#tools)
+* [Integrations](#integrations)
+* [Articles](#articles)
+* [Users](#users)
+* [Development](#development)
+
 For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/age-encryption)!
 
 ⭐️ Featured or official — 🧪 Beta or experimental
@@ -32,13 +41,13 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * 🧪 [rage-encry.pt](https://rage-encry.pt/) — In-browser encryption/decryption tool powered by wage.
 
-## Integrations
-
 ## Tools
 
 * ⭐️ [passage](https://github.com/FiloSottile/passage) — Fork of password-store that uses age in place of gpg.
 
 * [PaperAge](https://github.com/matiaskorhonen/paper-age) — Easy and secure paper backups of secrets.
+
+## Integrations
 
 ## Articles
 
