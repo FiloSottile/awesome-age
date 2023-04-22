@@ -104,7 +104,7 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [gopass](https://github.com/gopasspw/gopass/blob/master/docs/backends/age.md) — Password manager with a built-in age backend.
 
-* [Logseq](https://web.archive.org/web/20230422154136/https://twitter.com/logseq/status/1587905208667230209) — Open-source knowledge base, uses age for optional encryption.
+* [Logseq](https://web.archive.org/web/20230422154136/https://twitter.com/logseq/status/1587905208667230209) — Open-source knowledge base, uses age for its cloud Sync.
 
 * [eldim](https://github.com/daknob/eldim) — A file upload proxy that encrypt files with age.
 
