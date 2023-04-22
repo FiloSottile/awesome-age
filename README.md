@@ -38,7 +38,11 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * ⭐️ [age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) — YubiKey (and other PIV tokens) plugin.
 
+* [age-plugin-se](https://github.com/remko/age-plugin-se) — Apple Secure Enclave plugin, supporting native keys.
+
 * [age-plugin-trezor](https://github.com/romanz/trezor-agent/blob/master/doc/README-age.md) — Trezor hardware wallet plugin, supporting native keys.
+
+* 🧪 [age-plugin-fido](https://github.com/riastradh/age-plugin-fido) — Prototype of a symmetric encryption plugin for FIDO2 keys.
 
 ## GUIs
 
@@ -82,7 +86,7 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [My age+YubiKeys Password Management Solution](https://words.filippo.io/dispatches/passage/)
 
-* Len, Julia, Paul Grubbs, and Thomas Ristenpart. ["Partitioning Oracle Attacks."](https://www.usenix.org/system/files/sec21-len.pdf) *USENIX Security Symposium.* 2021.
+* Len, Julia, Paul Grubbs, and Thomas Ristenpart. ["Partitioning Oracle Attacks."](https://eprint.iacr.org/2020/1491) *USENIX Security Symposium.* 2021.
 
 * Gailly, Nicolas, Kelsey Melissaris, and Yolan Romailler. ["tlock: Practical Timelock Encryption from Threshold BLS."](https://eprint.iacr.org/2023/189) *Cryptology ePrint Archive.* 2023.
 
