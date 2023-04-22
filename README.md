@@ -28,6 +28,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * ⭐️ [rage](https://str4d.xyz/rage) — Rust implementation, fully interoperable and feature complete.
 
+* 🧪 [kage](https://github.com/android-password-store/kage) — Work-in-progress implementation for Kotlin/JVM and Android.
+
 * 🧪 [github.com/str4d/wage](https://github.com/str4d/wage) — WASM package powered by rage.
 
 ## Plugins
