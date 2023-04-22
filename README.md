@@ -70,11 +70,17 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [age-keygen-deterministic](https://github.com/keisentraut/age-keygen-deterministic) — Deterministically generate age keys from a passphrase with Argon2id.
 
+* [vanity-age](https://github.com/seaofmars/vanity-age) — Vanity age public key bruteforcer.
+
 ## Integrations
 
 * [agenix](https://github.com/ryantm/agenix) — age-encrypted secrets for NixOS.
 
 * [ragenix](https://github.com/yaxitech/ragenix) — drop-in replacement for agenix in Rust.
+
+* [age.el](https://github.com/anticomputer/age.el) — age encryption support for Emacs.
+
+* [passage.el](https://github.com/anticomputer/passage.el) — passage support for Emacs.
 
 * ⭐️ [SOPS](https://github.com/mozilla/sops#encrypting-using-age) — Flexible and widely integrated secret manager.
 
