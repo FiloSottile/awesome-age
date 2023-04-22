@@ -36,6 +36,10 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 ## Tools
 
+* ⭐️ [passage](https://github.com/FiloSottile/passage) — Fork of password-store that uses age in place of gpg.
+
+* [PaperAge](https://github.com/matiaskorhonen/paper-age) — Easy and secure paper backups of secrets.
+
 ## Articles
 
 * [age and Authenticathed Encryption](https://words.filippo.io/dispatches/age-authentication/)
