@@ -30,7 +30,9 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * 🧪 [kage](https://github.com/android-password-store/kage) — Work-in-progress implementation for Kotlin/JVM and Android.
 
-* 🧪 [github.com/str4d/wage](https://github.com/str4d/wage) — WASM package powered by rage.
+* 🧪 [github.com/str4d/wage](https://github.com/str4d/wage) — Wasm package powered by rage.
+
+* [rage-wasm](https://github.com/kanru/rage-wasm) — Wasm wrapper of rage.
 
 ## Plugins
 
