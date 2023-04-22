@@ -38,6 +38,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [rage-wasm](https://github.com/kanru/rage-wasm) — Wasm wrapper of rage.
 
+* [agemobile](https://github.com/MarinX/agemobile) — gomobile support for age.
+
 ## Plugins
 
 * ⭐️ [age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) — YubiKey (and other PIV tokens) plugin.
@@ -70,6 +72,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * 🧪 [kbs2](https://github.com/woodruffw/kbs2) — A secret manager backed by age.
 
+* 🧪 [ciphey](https://www.nickzana.dev/projects/ciphey/) — Password and secret manager.
+
 * [age-keygen-deterministic](https://github.com/keisentraut/age-keygen-deterministic) — Deterministically generate age keys from a passphrase with Argon2id.
 
 * [vanity-age](https://github.com/seaofmars/vanity-age) — Vanity age public key bruteforcer.
@@ -78,7 +82,13 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [agenix](https://github.com/ryantm/agenix) — age-encrypted secrets for NixOS.
 
-* [ragenix](https://github.com/yaxitech/ragenix) — drop-in replacement for agenix in Rust.
+* [ragenix](https://github.com/yaxitech/ragenix) — Drop-in replacement for agenix in Rust.
+
+* [homeage](https://github.com/jordanisaacs/homeage) — Nix home-manager module for runtime decryption of declarative age files.
+
+* [scalpel](https://github.com/polygon/scalpel) — Secret provisioning to Nix-generated service config files.
+
+* [agenix-rekey](https://github.com/oddlama/agenix-rekey) — agenix extension facilitating automating per-host secret rekeying.
 
 * [age.el](https://github.com/anticomputer/age.el) — age encryption support for Emacs.
 
@@ -86,11 +96,21 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * ⭐️ [SOPS](https://github.com/mozilla/sops#encrypting-using-age) — Flexible and widely integrated secret manager.
 
-* [chezmoi](https://www.chezmoi.io/user-guide/encryption/age/) — Dotfiles manager with age support.
+* [kustomize-age](https://github.com/jmhodges/kustomize-age) — Kustomize plugin for using age encrypted files in Secrets.
 
-* [gopass](https://github.com/gopasspw/gopass/blob/master/docs/backends/age.md) — Password manager with an age backend.
+* [Kustomizer](https://kustomizer.dev/guides/artifacts-encryption/) — Kubernetes configuration as OCI artifacts, natively supports age.
 
-* [Logseq](https://web.archive.org/web/20230422154136/https://twitter.com/logseq/status/1587905208667230209) — Open-source knowledge base, using age for encryption by default.
+* [chezmoi](https://www.chezmoi.io/user-guide/encryption/age/) — Dotfiles manager with native age support.
+
+* [gopass](https://github.com/gopasspw/gopass/blob/master/docs/backends/age.md) — Password manager with a built-in age backend.
+
+* [Logseq](https://web.archive.org/web/20230422154136/https://twitter.com/logseq/status/1587905208667230209) — Open-source knowledge base, uses age for optional encryption.
+
+* [eldim](https://github.com/daknob/eldim) — A file upload proxy that encrypt files with age.
+
+* [paw](https://github.com/lucor/paw) — Cross-platform password manager app.
+
+* [Cryptocam](https://cryptocam.gitlab.io/) — Android app that encrypts video with age as it is recorded.
 
 ## Articles
 
