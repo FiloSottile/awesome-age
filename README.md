@@ -12,7 +12,7 @@ A collection of projects and resources in the age file encryption ecosystem.
 
 For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/age-encryption)!
 
-⭐️ Featured — 🧪 Experimental
+⭐️ Featured or official — 🧪 Beta or experimental
 
 ## Implementations
 
