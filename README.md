@@ -49,6 +49,10 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 ## Integrations
 
+* [agenix](https://github.com/ryantm/agenix) — age-encrypted secrets for NixOS.
+
+* [ragenix](https://github.com/yaxitech/ragenix) — drop-in replacement for agenix in Rust.
+
 ## Articles
 
 * [age and Authenticathed Encryption](https://words.filippo.io/dispatches/age-authentication/)
