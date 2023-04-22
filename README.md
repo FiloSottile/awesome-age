@@ -16,15 +16,19 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 ## Implementations
 
-* ⭐️ [filippo.io/age](https://filippo.io/age) — CLI and Go reference implementation, with native keys, SSH keys, passphrase, and plugin support.
+* ⭐️ [age](https://filippo.io/age) — CLI and Go reference implementation, with native keys, SSH keys, passphrase, and plugin support.
 
-* ⭐️ [str4d.xyz/rage](https://str4d.xyz/rage) — Rust implementation, fully interoperable and feature complete.
+* ⭐️ [rage](https://str4d.xyz/rage) — Rust implementation, fully interoperable and feature complete.
 
 * 🧪 [github.com/str4d/wage](https://github.com/str4d/wage) — WASM package powered by rage.
 
 ## Plugins
 
+* ⭐️ [age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) — YubiKey (and other PIV tokens) plugin.
+
 ## GUIs
+
+* ⭐️ [Winage](https://winage.spiegl.dev/) — Contextual menu driven Windows GUI.
 
 * 🧪 [rage-encry.pt](https://rage-encry.pt/) — In-browser encryption/decryption tool powered by wage.
 
