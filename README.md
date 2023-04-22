@@ -30,7 +30,7 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * 🧪 [kage](https://github.com/android-password-store/kage) — Work-in-progress implementation for Kotlin/JVM and Android.
 
-* 🧪 [github.com/str4d/wage](https://github.com/str4d/wage) — Wasm package powered by rage.
+* 🧪 [wage](https://github.com/str4d/wage) — Wasm package powered by rage.
 
 * [rage-wasm](https://github.com/kanru/rage-wasm) — Wasm wrapper of rage.
 
@@ -48,7 +48,7 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * ⭐️ [Winage](https://winage.spiegl.dev/) — Contextual menu driven Windows GUI.
 
-* [github.com/MarinX/agewasm](https://github.com/MarinX/agewasm) ([live](https://age-wasm.ey.r.appspot.com/)) — Static HTML and Wasm in-browser encryption tool.
+* [agewasm](https://github.com/MarinX/agewasm) ([live](https://age-wasm.ey.r.appspot.com/)) — Static HTML and Wasm in-browser encryption tool.
 
 * 🧪 [rage-encry.pt](https://rage-encry.pt/) — In-browser encryption/decryption tool powered by wage.
 
