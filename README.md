@@ -24,7 +24,7 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 ## Implementations
 
-* ⭐️ [age](https://filippo.io/age) — CLI and Go reference implementation.
+* ⭐️ [age](https://filippo.io/age) ([Go docs](https://pkg.go.dev/filippo.io/age), [man page](https://filippo.io/age/age.1)) — CLI and Go reference implementation.
 
 * ⭐️ [rage](https://str4d.xyz/rage) — Rust implementation, fully interoperable and feature complete.
 
@@ -42,6 +42,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * ⭐️ [Winage](https://winage.spiegl.dev/) — Contextual menu driven Windows GUI.
 
+* [github.com/MarinX/agewasm](https://github.com/MarinX/agewasm) ([live](https://age-wasm.ey.r.appspot.com/)) — Static HTML and Wasm in-browser encryption tool.
+
 * 🧪 [rage-encry.pt](https://rage-encry.pt/) — In-browser encryption/decryption tool powered by wage.
 
 ## Tools
@@ -49,6 +51,10 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 * ⭐️ [passage](https://github.com/FiloSottile/passage) — Fork of password-store that uses age in place of gpg.
 
 * [PaperAge](https://github.com/matiaskorhonen/paper-age) — Easy and secure paper backups of secrets.
+
+* [pa](https://github.com/biox/pa) — A simple password manager, written in portable POSIX shell.
+
+* [agebox](https://github.com/slok/agebox) — Easy file repository encryption tool, focused on simplicity and gitops.
 
 * 🧪 [kbs2](https://github.com/woodruffw/kbs2) — A secret manager backed by age.
 
@@ -59,6 +65,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 * [ragenix](https://github.com/yaxitech/ragenix) — drop-in replacement for agenix in Rust.
 
 * ⭐️ [SOPS](https://github.com/mozilla/sops#encrypting-using-age) — Flexible and widely integrated secret manager.
+
+* [chezmoi](https://www.chezmoi.io/user-guide/encryption/age/) — Dotfiles manager with age support.
 
 * [gopass](https://github.com/gopasspw/gopass/blob/master/docs/backends/age.md) — Password manager with an age backend.
 
