@@ -34,6 +34,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * ⭐️ [age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) — YubiKey (and other PIV tokens) plugin.
 
+* [age-plugin-trezor](https://github.com/romanz/trezor-agent/blob/master/doc/README-age.md) — Trezor hardware wallet plugin, supporting native keys.
+
 ## GUIs
 
 * ⭐️ [Winage](https://winage.spiegl.dev/) — Contextual menu driven Windows GUI.
