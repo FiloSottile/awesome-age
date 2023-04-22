@@ -42,6 +42,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [age-plugin-trezor](https://github.com/romanz/trezor-agent/blob/master/doc/README-age.md) — Trezor hardware wallet plugin, supporting native keys.
 
+* 🧪 [age-plugin-sntrup761x25519](https://github.com/keisentraut/age-plugin-sntrup761x25519 — Post-quantum hybrid plugin mixing NTRU Prime and X25519.
+
 * 🧪 [age-plugin-fido](https://github.com/riastradh/age-plugin-fido) — Prototype of a symmetric encryption plugin for FIDO2 keys.
 
 ## GUIs
@@ -63,6 +65,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 * [agebox](https://github.com/slok/agebox) — Easy file repository encryption tool, focused on simplicity and gitops.
 
 * 🧪 [kbs2](https://github.com/woodruffw/kbs2) — A secret manager backed by age.
+
+* [age-keygen-deterministic](https://github.com/keisentraut/age-keygen-deterministic) — Deterministically generate age keys from a passphrase with Argon2id.
 
 ## Integrations
 
