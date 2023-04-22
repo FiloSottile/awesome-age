@@ -32,6 +32,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * 🧪 [kage](https://github.com/android-password-store/kage) — Work-in-progress implementation for Kotlin/JVM and Android.
 
+* 🧪 [AgeKit](https://github.com/jamesog/AgeKit) — Work-in-progress Swift implementation on top of CryptoKit.
+
 * 🧪 [wage](https://github.com/str4d/wage) — Wasm package powered by rage.
 
 * [rage-wasm](https://github.com/kanru/rage-wasm) — Wasm wrapper of rage.
