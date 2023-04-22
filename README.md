@@ -16,7 +16,6 @@ A collection of projects and resources in the age file encryption ecosystem.
 * [Tools](#tools)
 * [Integrations](#integrations)
 * [Articles](#articles)
-* [Users](#users)
 * [Development](#development)
 
 For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/age-encryption)!
@@ -47,11 +46,19 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [PaperAge](https://github.com/matiaskorhonen/paper-age) — Easy and secure paper backups of secrets.
 
+* 🧪 [kbs2](https://github.com/woodruffw/kbs2) — A secret manager backed by age.
+
 ## Integrations
 
 * [agenix](https://github.com/ryantm/agenix) — age-encrypted secrets for NixOS.
 
 * [ragenix](https://github.com/yaxitech/ragenix) — drop-in replacement for agenix in Rust.
+
+* ⭐️ [SOPS](https://github.com/mozilla/sops#encrypting-using-age) — Flexible and widely integrated secret manager.
+
+* [gopass](https://github.com/gopasspw/gopass/blob/master/docs/backends/age.md) — Password manager with an age backend.
+
+* [Logseq](https://web.archive.org/web/20230422154136/https://twitter.com/logseq/status/1587905208667230209) — Open-source knowledge base, using age for encryption by default.
 
 ## Articles
 
@@ -61,11 +68,13 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [My age+YubiKeys Password Management Solution](https://words.filippo.io/dispatches/passage/)
 
+* Len, Julia, Paul Grubbs, and Thomas Ristenpart. ["Partitioning Oracle Attacks."](https://www.usenix.org/system/files/sec21-len.pdf) *USENIX Security Symposium.* 2021.
+
+* Gailly, Nicolas, Kelsey Melissaris, and Yolan Romailler. ["tlock: Practical Timelock Encryption from Threshold BLS."](https://eprint.iacr.org/2023/189) *Cryptology ePrint Archive.* 2023.
+
+* Stäuble, Mirco. ["Actually Good Encryption? Confusing Users by Changing Nonces."](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/project_MircoStauble.pdf) 2022.
+
 * [gitattributes age encrypt](https://seankhliao.com/blog/12020-09-24-gitattributes-age-encrypt/) — Encrypting and decrypting files with gitattributes.
-
-## Users
-
-* [Logseq](https://web.archive.org/web/20230422154136/https://twitter.com/logseq/status/1587905208667230209)
 
 ## Development
 
