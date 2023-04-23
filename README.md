@@ -46,13 +46,13 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [age-plugin-se](https://github.com/remko/age-plugin-se) — Apple Secure Enclave plugin, supporting native keys.
 
+* 🧪 [age-plugin-tpm](https://github.com/Foxboron/age-plugin-tpm) — TPM 2.0 plugin.
+
 * [age-plugin-trezor](https://github.com/romanz/trezor-agent/blob/master/doc/README-age.md) — Trezor hardware wallet plugin, supporting native keys.
 
 * 🧪 [age-plugin-sntrup761x25519](https://github.com/keisentraut/age-plugin-sntrup761x25519) — Post-quantum hybrid plugin mixing NTRU Prime and X25519.
 
 * 🧪 [age-plugin-fido](https://github.com/riastradh/age-plugin-fido) — Prototype of a symmetric encryption plugin for FIDO2 keys.
-
-* 🧪 [age-plugin-tpm](https://github.com/Foxboron/age-plugin-tpm) — TPM plugin.
 
 ## GUIs
 
