@@ -62,6 +62,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * 🧪 [rage-encry.pt](https://rage-encry.pt/) — In-browser encryption/decryption tool powered by wage.
 
+* [age-online](https://github.com/nkcmr/age-online) ([live](https://age-online.com/)) — Wasm in-browser encryption/decryption tool for text.
+
 ## Tools
 
 * ⭐️ [passage](https://github.com/FiloSottile/passage) — Fork of password-store that uses age in place of gpg.
