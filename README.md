@@ -62,8 +62,7 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * 🧪 [rage-encry.pt](https://rage-encry.pt/) — In-browser encryption/decryption tool powered by wage.
 
-* [age-online](https://github.com/nkcmr/age-online) ([live](https://age-online.com/)) — A fully in-browser tool to encrypt data with the age encryption tool.  UI/UX geared toward quickly encrypting a small bit of data like exchanging credentials.
-
+* [age-online](https://github.com/nkcmr/age-online) ([live](https://age-online.com/)) — Wasm in-browser encryption/decryption tool for text.
 
 ## Tools
 
