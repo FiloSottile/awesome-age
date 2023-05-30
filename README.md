@@ -84,6 +84,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [vanity-age](https://github.com/seaofmars/vanity-age) — Vanity age public key bruteforcer.
 
+* [age-op](https://github.com/stevelr/age-op) - Simple cli encryption without the footguns: age + 1password
+
 ## Integrations
 
 * [agenix](https://github.com/ryantm/agenix) — age-encrypted secrets for NixOS.
