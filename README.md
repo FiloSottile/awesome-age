@@ -84,6 +84,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [vanity-age](https://github.com/seaofmars/vanity-age) — Vanity age public key bruteforcer.
 
+* [age-op](https://github.com/stevelr/age-op) — Transparently use age keys stored in 1Password.
+
 ## Integrations
 
 * [agenix](https://github.com/ryantm/agenix) — age-encrypted secrets for NixOS.
