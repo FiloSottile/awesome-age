@@ -86,6 +86,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [age-op](https://github.com/stevelr/age-op) — Transparently use age keys stored in 1Password.
 
+* [akm](https://github.com/tdemin/akm) — age key manager and wrapper, allows for key aliases, etc.
+
 ## Integrations
 
 * [agenix](https://github.com/ryantm/agenix) — age-encrypted secrets for NixOS.
