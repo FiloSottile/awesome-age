@@ -42,6 +42,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [agemobile](https://github.com/MarinX/agemobile) — gomobile support for age.
 
+* 🧪 [age_ex](https://hexdocs.pm/age/)  - Elixir implementation using libsodium and :crypto.
+
 ## Plugins
 
 * ⭐️ [age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) — YubiKey (and other PIV tokens) plugin.
