@@ -146,6 +146,6 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * ⭐️ [age-encryption.org/v1](https://age-encryption.org/v1) — The official file format specification.
 
-* [c2sp.org/CCTV/age](https://c2sp.org/CCTV/age) — Comprehensive implementation-agnostic test suite of over 100 vectors.
+* ⭐️ [c2sp.org/CCTV/age](https://c2sp.org/CCTV/age) — Comprehensive implementation-agnostic test suite of over 100 vectors.
 
-* 🧪 C2SP/C2SP#5 — age-plugin spec (draft)
+* [c2sp.org/age-plugin](https://c2sp.org/age-plugin) — Plugin system specification.
