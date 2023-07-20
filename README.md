@@ -30,6 +30,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [pyrage](https://github.com/woodruffw/pyrage) — Python bindings for rage.
 
+* [Jagged](https://github.com/exceptionfactory/jagged) - Java library implementation.
+
 * 🧪 [kage](https://github.com/android-password-store/kage) — Work-in-progress implementation for Kotlin/JVM and Android.
 
 * 🧪 [AgeKit](https://github.com/jamesog/AgeKit) — Work-in-progress Swift implementation on top of CryptoKit.
