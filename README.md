@@ -146,6 +146,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [age Encryption in Python with pyrage](https://blog.yossarian.net/2022/07/25/age-encryption-in-python-with-pyrage) — Announcement of pyrage with extensive technical details.
 
+* [Introducing Jagged for age Encryption in Java](https://exceptionfactory.com/posts/2023/08/29/introducing-jagged-for-age-encryption-in-java/) 
+
 ## Development
 
 * ⭐️ [age-encryption.org/v1](https://age-encryption.org/v1) — The official file format specification.
