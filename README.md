@@ -134,7 +134,7 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 ## Articles
 
-* [age and Authenticathed Encryption](https://words.filippo.io/dispatches/age-authentication/)
+* [age and Authenticated Encryption](https://words.filippo.io/dispatches/age-authentication/)
 
 * [KEMs and Post-Quantum age](https://words.filippo.io/dispatches/post-quantum-age/)
 
