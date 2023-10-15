@@ -110,6 +110,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [passage.el](https://github.com/anticomputer/passage.el) — passage support for Emacs.
 
+* [age.nvim](https://github.com/KingMichaelPark/age.nvim) — Neovim utility for loading encrypted secrets.
+
 * ⭐️ [SOPS](https://github.com/mozilla/sops#encrypting-using-age) — Flexible and widely integrated secret manager.
 
 * [kustomize-age](https://github.com/jmhodges/kustomize-age) — Kustomize plugin for using age encrypted files in Secrets.
