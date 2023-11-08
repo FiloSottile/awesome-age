@@ -28,7 +28,7 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * ⭐️ [rage](https://str4d.xyz/rage) — Rust implementation, fully interoperable and feature complete.
 
-* ⭐️ [age.ts](https://github.com/FiloSottile/age.ts) — TypeScript implementation on top of libsodium.js, available as an npm package.
+* ⭐️ [typage](https://github.com/FiloSottile/typage) — TypeScript implementation on top of libsodium.js, available as an npm package.
 
 * [pyrage](https://github.com/woodruffw/pyrage) — Python bindings for rage.
 
