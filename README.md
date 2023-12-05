@@ -94,6 +94,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [age-op](https://github.com/stevelr/age-op) — Transparently use age keys stored in 1Password.
 
+* [wyrd](https://git.sr.ht/~amolith/wyrd) — Receive credentials from clients in a reasonably secure manner.
+
 ## Integrations
 
 * [agenix](https://github.com/ryantm/agenix) — age-encrypted secrets for NixOS.
