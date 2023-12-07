@@ -46,6 +46,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * 🧪 [age_ex](https://hexdocs.pm/age/)  - Elixir implementation using libsodium and :crypto.
 
+* 🧪 [dage](https://github.com/Producement/dage) - Dart implementation 
+
 ## Plugins
 
 * ⭐️ [age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) — YubiKey (and other PIV tokens) plugin.
