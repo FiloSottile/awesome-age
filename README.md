@@ -62,6 +62,11 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * 🧪 [age-plugin-fido](https://github.com/riastradh/age-plugin-fido) — Prototype of a symmetric encryption plugin for FIDO2 keys.
 
+* 🧪 [age-plugin-fido2-hmac](https://github.com/olastor/age-plugin-fido2-hmac) — Similar to `fido` plugin, but with a slightly different design and adds support for PINs.
+
+* 🧪 [age-plugin-sss](https://github.com/olastor/age-plugin-sss) — Plugin for splitting encryption keys using Shamir's Secret Sharing (SSS).
+
+
 ## GUIs
 
 * ⭐️ [Winage](https://winage.spiegl.dev/) — Contextual menu driven Windows GUI.
@@ -150,7 +155,7 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [age Encryption in Python with pyrage](https://blog.yossarian.net/2022/07/25/age-encryption-in-python-with-pyrage) — Announcement of pyrage with extensive technical details.
 
-* [Introducing Jagged for age Encryption in Java](https://exceptionfactory.com/posts/2023/08/29/introducing-jagged-for-age-encryption-in-java/) 
+* [Introducing Jagged for age Encryption in Java](https://exceptionfactory.com/posts/2023/08/29/introducing-jagged-for-age-encryption-in-java/)
 
 ## Development
 
