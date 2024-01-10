@@ -44,9 +44,9 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [agemobile](https://github.com/MarinX/agemobile) — gomobile support for age.
 
-* 🧪 [age_ex](https://hexdocs.pm/age/)  - Elixir implementation using libsodium and :crypto.
+* 🧪 [age_ex](https://hexdocs.pm/age/) - Elixir implementation using libsodium and :crypto.
 
-* 🧪 [dage](https://github.com/Producement/dage) - Dart implementation 
+* 🧪 [dage](https://github.com/Producement/dage) - Dart implementation.
 
 ## Plugins
 
