@@ -66,7 +66,6 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * 🧪 [age-plugin-sss](https://github.com/olastor/age-plugin-sss) — Plugin for splitting encryption keys using Shamir's Secret Sharing (SSS).
 
-
 ## GUIs
 
 * ⭐️ [Winage](https://winage.spiegl.dev/) — Contextual menu driven Windows GUI.
