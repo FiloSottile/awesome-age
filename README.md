@@ -62,7 +62,7 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * 🧪 [age-plugin-fido](https://github.com/riastradh/age-plugin-fido) — Prototype of a symmetric encryption plugin for FIDO2 keys.
 
-* 🧪 [age-plugin-fido2-hmac](https://github.com/olastor/age-plugin-fido2-hmac) — Similar to `fido` plugin, but with a slightly different design and adds support for PINs.
+* 🧪 [age-plugin-fido2-hmac](https://github.com/olastor/age-plugin-fido2-hmac) — Similar to age-plugin-fido, adds support for PINs.
 
 * 🧪 [age-plugin-sss](https://github.com/olastor/age-plugin-sss) — Plugin for splitting encryption keys using Shamir's Secret Sharing (SSS).
 
