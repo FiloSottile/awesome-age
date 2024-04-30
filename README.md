@@ -138,6 +138,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [Cryptocam](https://cryptocam.gitlab.io/) — Android app that encrypts video with age as it is recorded.
 
+* [saltstack-age](https://github.com/pmuller/saltstack-age) — SaltStack extension for securely managing secrets in pillar data using age.
+
 ## Articles
 
 * [age and Authenticated Encryption](https://words.filippo.io/dispatches/age-authentication/)
