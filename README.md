@@ -52,7 +52,7 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * ⭐️ [age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) — YubiKey (and other PIV tokens) plugin.
 
-* [age-plugin-se](https://github.com/remko/age-plugin-se) — Apple Secure Enclave plugin, supporting native keys.
+* [age-plugin-se](https://github.com/remko/age-plugin-se) — Apple Secure Enclave plugin.
 
 * 🧪 [age-plugin-tpm](https://github.com/Foxboron/age-plugin-tpm) — TPM 2.0 plugin.
 
@@ -67,6 +67,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 * 🧪 [age-plugin-fido2-hmac](https://github.com/olastor/age-plugin-fido2-hmac) — Similar to age-plugin-fido, adds support for PINs.
 
 * 🧪 [age-plugin-sss](https://github.com/olastor/age-plugin-sss) — Plugin for splitting encryption keys using Shamir's Secret Sharing (SSS).
+
+The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-0.20240618131852-7eedd929a6cf/plugin#Plugin) and the Rust crate [age_plugin](https://docs.rs/age-plugin/latest/age_plugin/) provide frameworks for implementing plugins.
 
 ## GUIs
 
