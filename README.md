@@ -160,6 +160,8 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 
 * [Introducing Jagged for age Encryption in Java](https://exceptionfactory.com/posts/2023/08/29/introducing-jagged-for-age-encryption-in-java/)
 
+* [age：一个现代化的加密工具](https://github.com/islishude/blog/issues/220)
+
 ## Development
 
 * ⭐️ [age-encryption.org/v1](https://age-encryption.org/v1) — The official file format specification.
