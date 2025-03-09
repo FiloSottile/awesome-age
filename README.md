@@ -74,7 +74,7 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 
 * ⭐️ [Winage](https://winage.spiegl.dev/) — Contextual menu driven Windows GUI.
 
-* [agewasm](https://github.com/MarinX/agewasm) ([live](https://age-wasm.ey.r.appspot.com/)) — Static HTML and Wasm in-browser encryption tool.
+* [agewasm](https://github.com/MarinX/agewasm) ([live](https://agewasm.marin-basic.com/)) — Static HTML and Wasm in-browser encryption tool.
 
 * 🧪 [rage-encry.pt](https://rage-encry.pt/) — In-browser encryption/decryption tool powered by wage.
 
