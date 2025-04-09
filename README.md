@@ -58,7 +58,7 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * 🧪 [age-plugin-tkey](https://github.com/quite/age-plugin-tkey) — Tillitis TKey plugin.
 
-* [age-plugin-trezor](https://github.com/romanz/trezor-agent/blob/master/doc/README-age.md) — Trezor hardware wallet plugin, supporting native keys.
+* [age-plugin-trezor](https://github.com/romanz/trezor-agent/blob/master/doc/README-age.md) — Hardware wallet plugin (TREZOR, Ledger, ...), supporting native keys.
 
 * 🧪 [age-plugin-sntrup761x25519](https://github.com/keisentraut/age-plugin-sntrup761x25519) — Post-quantum hybrid plugin mixing NTRU Prime and X25519.
 
