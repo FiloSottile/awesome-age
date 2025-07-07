@@ -102,6 +102,10 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 
 * [age-op](https://github.com/stevelr/age-op) — Transparently use age keys stored in 1Password.
 
+* 🧪 [pago](https://github.com/dbohdan/pago) — A command-line password manager. Partially compatible with passage stores.
+
+* [seniorpw](https://gitlab.com/retirement-home/seniorpw) — A password manager, inspired by password-store, written in Rust
+
 ## Integrations
 
 * [agenix](https://github.com/ryantm/agenix) — age-encrypted secrets for NixOS.
