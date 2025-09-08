@@ -88,6 +88,8 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 
 * [PaperAge](https://github.com/matiaskorhonen/paper-age) — Easy and secure paper backups of secrets.
 
+* [offkey](https://github.com/yawn/offkey) — Print age encrypted small secrets for offline recovery.
+
 * [pa](https://github.com/biox/pa) — A simple password manager, written in portable POSIX shell.
 
 * [agebox](https://github.com/slok/agebox) — Easy file repository encryption tool, focused on simplicity and gitops.
