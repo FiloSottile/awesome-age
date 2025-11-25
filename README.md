@@ -70,6 +70,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * 🧪 [age-plugin-amnesia](https://github.com/cedws/amnesia/blob/master/README.md#age-plugin-experimental) — Wraps identities with a set of questions and answers.
 
+* 🧪 [age-plugin-xwing](https://github.com/Rixxc/age-plugin-xwing) — Post-quantum hybrid KEM using ML-KEM and X25519.
+
 The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-0.20240618131852-7eedd929a6cf/plugin#Plugin) and the Rust crate [age_plugin](https://docs.rs/age-plugin/latest/age_plugin/) provide frameworks for implementing plugins.
 
 ## GUIs
