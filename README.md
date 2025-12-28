@@ -58,13 +58,13 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * 🧪 [age-plugin-tkey](https://github.com/quite/age-plugin-tkey) — Tillitis TKey plugin.
 
+* [age-plugin-fido2prf](https://github.com/FiloSottile/typage/blob/main/README.md#age-plugin-fido2prf) — FIDO2 symmetric encryption plugin compatible with WebAuthn.
+
 * [age-plugin-trezor](https://github.com/romanz/trezor-agent/blob/master/doc/README-age.md) — Hardware wallet plugin (TREZOR, Ledger, ...), supporting native keys.
 
 * 🧪 [age-plugin-sntrup761x25519](https://github.com/keisentraut/age-plugin-sntrup761x25519) — Post-quantum hybrid plugin mixing NTRU Prime and X25519.
 
-* 🧪 [age-plugin-fido](https://github.com/riastradh/age-plugin-fido) — Prototype of a symmetric encryption plugin for FIDO2 keys.
-
-* 🧪 [age-plugin-fido2-hmac](https://github.com/olastor/age-plugin-fido2-hmac) — Similar to age-plugin-fido, adds support for PINs.
+* 🧪 [age-plugin-fido2-hmac](https://github.com/olastor/age-plugin-fido2-hmac) — Plugin for wrapping software native identities with FIDO2.
 
 * 🧪 [age-plugin-sss](https://github.com/olastor/age-plugin-sss) — Plugin for splitting encryption keys using Shamir's Secret Sharing (SSS).
 
