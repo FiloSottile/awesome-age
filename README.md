@@ -106,6 +106,8 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 
 * [age-op](https://github.com/stevelr/age-op) — Transparently use age keys stored in 1Password.
 
+* [akm](https://github.com/tdemin/akm) — age key manager and wrapper, allows for key aliases, etc.
+
 ## Integrations
 
 * [agenix](https://github.com/ryantm/agenix) — age-encrypted secrets for NixOS.
