@@ -72,6 +72,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [age-plugin-batchpass](https://htmlpreview.github.io/?https://github.com/FiloSottile/age/blob/main/doc/age-plugin-batchpass.1.html) — Plugin for non-interactive passphrase encryption.
 
+* [age-plugin-bip39](https://github.com/pinpox/age-plugin-bip39) — Plugin deriving keys from a BIP-39 seed.
+
 The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-0.20240618131852-7eedd929a6cf/plugin#Plugin) and the Rust crate [age_plugin](https://docs.rs/age-plugin/latest/age_plugin/) provide frameworks for implementing plugins.
 
 ## GUIs
