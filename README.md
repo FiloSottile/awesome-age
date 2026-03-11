@@ -106,6 +106,8 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 
 * [age-op](https://github.com/stevelr/age-op) — Transparently use age keys stored in 1Password.
 
+* [git-age-filter](https://github.com/rbo13/git-age-filter) - Integrates age with Git clean/smudge filters so protected files are encrypted in Git history and transparently decrypted in your working tree.
+
 ## Integrations
 
 * [agenix](https://github.com/ryantm/agenix) — age-encrypted secrets for NixOS.
