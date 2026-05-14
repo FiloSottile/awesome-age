@@ -144,6 +144,8 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 
 * [Cryptocam](https://cryptocam.gitlab.io/) — Android app that encrypts video with age as it is recorded.
 
+* [Cottage Sync](https://cottage-sync.github.io/) — Own Your Secrets - Sync (cott)age encrypted secrets from any repo to any device.
+
 ## Articles
 
 * [age and Authenticated Encryption](https://words.filippo.io/dispatches/age-authentication/)
