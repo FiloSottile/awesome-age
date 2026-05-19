@@ -48,6 +48,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * 🧪 [dage](https://github.com/Producement/dage) - Dart implementation.
 
+* 🧪 [php-age](https://github.com/xepozz/php-age) – PHP Implementation.
+
 ## Plugins
 
 * ⭐️ [age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) — YubiKey (and other PIV tokens) plugin.
