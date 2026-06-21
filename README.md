@@ -154,6 +154,8 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 
 * [age Plugins](https://words.filippo.io/dispatches/age-plugins/)
 
+* [Encrypting Files with Passkeys and age](https://words.filippo.io/passkey-encryption/)
+
 * Len, Julia, Paul Grubbs, and Thomas Ristenpart. ["Partitioning Oracle Attacks."](https://eprint.iacr.org/2020/1491) *USENIX Security Symposium.* 2021.
 
 * Gailly, Nicolas, Kelsey Melissaris, and Yolan Romailler. ["tlock: Practical Timelock Encryption from Threshold BLS."](https://eprint.iacr.org/2023/189) *Cryptology ePrint Archive.* 2023.
