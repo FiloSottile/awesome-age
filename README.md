@@ -126,6 +126,8 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 
 * ⭐️ [SOPS](https://github.com/mozilla/sops#encrypting-using-age) — Flexible and widely integrated secret manager.
 
+* [rops](https://github.com/gibbz00/rops) - A SOPS alternative in pure Rust.
+
 * [kustomize-age](https://github.com/jmhodges/kustomize-age) — Kustomize plugin for using age encrypted files in Secrets.
 
 * [Kustomizer](https://kustomizer.dev/guides/artifacts-encryption/) — Kubernetes configuration as OCI artifacts, natively supports age.
