@@ -144,6 +144,8 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 
 * [Cryptocam](https://cryptocam.gitlab.io/) — Android app that encrypts video with age as it is recorded.
 
+* [caddy-encrypted-storage](https://github.com/mohammed90/caddy-encrypted-storage) — Caddy storage module that encrypts data at-rest using age through [SOPS](https://github.com/mozilla/sops#encrypting-using-age).
+
 ## Articles
 
 * [age and Authenticated Encryption](https://words.filippo.io/dispatches/age-authentication/)
