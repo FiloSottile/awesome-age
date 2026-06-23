@@ -106,6 +106,8 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 
 * [age-op](https://github.com/stevelr/age-op) — Transparently use age keys stored in 1Password.
 
+*  [cottage](https://github.com/sayanarijit/cottage) - A modern git based age-encrypted secrets manager for teams.
+
 ## Integrations
 
 * [agenix](https://github.com/ryantm/agenix) — age-encrypted secrets for NixOS.
