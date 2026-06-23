@@ -100,6 +100,8 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 
 * [age-keygen-deterministic](https://github.com/keisentraut/age-keygen-deterministic) — Deterministically generate age keys from a passphrase with Argon2id.
 
+* [age-keygen-det](https://github.com/dmonakhov/age-keygen-det) — Deterministically derive classic or post-quantum age identities from a 32-byte seed, e.g. a BIP-85 hardware-wallet entropy output.
+
 * [age-vanity-keygen](https://github.com/AlexanderYastrebov/age-vanity-keygen) — Fast vanity age X25519 identity generator.
 
 * [vanity-rage](https://github.com/siltyy/vanity-rage) — Faster rage-based reimplementation of vanity-age.
