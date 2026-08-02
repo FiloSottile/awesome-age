@@ -20,7 +20,7 @@ A collection of projects and resources in the age file encryption ecosystem.
 
 For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/age-encryption)!
 
-⭐��� Featured or official — 🧪 Beta or experimental
+⭐️ Featured or official — 🧪 Beta or experimental
 
 ## Implementations
 
@@ -68,11 +68,11 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * 🧪 [age-plugin-sss](https://github.com/olastor/age-plugin-sss) — Plugin for splitting encryption keys using Shamir's Secret Sharing (SSS).
 
-* [age-plugin-relay](https://github.com/oguzhane/age-plugin-relay) — Decrypt age-encrypted files from anywhere by relaying identity operations to a remote server.
-
 * 🧪 [age-plugin-amnesia](https://github.com/cedws/amnesia/blob/master/README.md#age-plugin-experimental) — Wraps identities with a set of questions and answers.
 
 * [age-plugin-batchpass](https://htmlpreview.github.io/?https://github.com/FiloSottile/age/blob/main/doc/age-plugin-batchpass.1.html) — Plugin for non-interactive passphrase encryption.
+
+* [age-plugin-relay](https://github.com/oguzhane/age-plugin-relay) — Decrypt age-encrypted files from anywhere by relaying identity operations to a remote server.
 
 The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-0.20240618131852-7eedd929a6cf/plugin#Plugin) and the Rust crate [age_plugin](https://docs.rs/age-plugin/latest/age_plugin/) provide frameworks for implementing plugins.
 
