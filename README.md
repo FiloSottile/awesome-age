@@ -78,6 +78,8 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 
 * ⭐️ [Winage](https://winage.spiegl.dev/) — Contextual menu driven Windows GUI.
 
+* [Age Mac](https://github.com/vikiea/age_mac) — Native macOS GUI for local file encryption and decryption, supporting X25519 + ML-KEM-768 post-quantum hybrid keys.
+
 * [agewasm](https://github.com/MarinX/agewasm) ([live](https://agewasm.marin-basic.com/)) — Static HTML and Wasm in-browser encryption tool.
 
 * 🧪 [rage-encry.pt](https://rage-encry.pt/) — In-browser encryption/decryption tool powered by wage.
