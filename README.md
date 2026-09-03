@@ -83,6 +83,7 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 * 🧪 [rage-encry.pt](https://rage-encry.pt/) — In-browser encryption/decryption tool powered by wage.
 
 * [age-online](https://github.com/nkcmr/age-online) ([live](https://age-online.com/)) — Wasm in-browser encryption/decryption tool for text.
+* [lockd](https://github.com/rabmach/lockd) — One-word desktop encryption for Linux: right-click or one command, key managed for you, originals wiped after byte-verification.
 
 ## Tools
 
