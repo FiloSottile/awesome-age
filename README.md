@@ -106,6 +106,8 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 
 * [age-op](https://github.com/stevelr/age-op) — Transparently use age keys stored in 1Password.
 
+* [ghseal](https://github.com/hamarshehmhmd/ghseal) — Share `.env` files with a team by encrypting them to their GitHub SSH keys, and run commands with the secrets injected.
+
 ## Integrations
 
 * [agenix](https://github.com/ryantm/agenix) — age-encrypted secrets for NixOS.
